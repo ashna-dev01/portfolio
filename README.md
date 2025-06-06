@@ -8,7 +8,7 @@ It showcases my skills, projects, and contact information in a clean and respons
 - CSS
 
 ## 🚀 Live Demo
-[View Portfolio](https://ashna-dev.github.io/portfolio)
+[View Portfolio](https://ashna-dev01.github.io/index/)
 
 ---
 
